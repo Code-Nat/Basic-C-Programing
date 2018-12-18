@@ -13,16 +13,5 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Source Files\Scores class 6">
-      <UniqueIdentifier>{07b79a23-821f-4b58-a599-1f405e1ab0ed}</UniqueIdentifier>
-    </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Start.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Scores.c">
-      <Filter>Source Files\Scores class 6</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
